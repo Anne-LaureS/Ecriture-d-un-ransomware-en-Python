@@ -1,4 +1,6 @@
-## Ecriture d'un RANSOMWARE en python
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/OOjs_UI_icon_lock.svg" alt="Security Logo" width="60" align="left">
+
+# Ecriture d'un RANSOMWARE en Python
 ![Security Research](https://img.shields.io/badge/Security-Research-blue?logo=shield&logoColor=white)
 ![Malware Analysis](https://img.shields.io/badge/Malware-Analysis-critical?logo=bug&logoColor=white)
 ![Sandbox](https://img.shields.io/badge/Environment-Lab%20Only-orange?logo=virtualbox&logoColor=white)
