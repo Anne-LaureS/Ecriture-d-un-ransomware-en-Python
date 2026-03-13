@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/OOjs_UI_icon_lock.svg" width="60" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/OOjs_UI_icon_alert-warning.svg" width="60" align="left">
 
 # Ecriture d'un RANSOMWARE en Python
 ![Security Research](https://img.shields.io/badge/Security-Research-blue?logo=shield&logoColor=white)
