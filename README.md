@@ -1,6 +1,15 @@
+## Ecriture d'un RANSOMWARE en python
+![Security Research](https://img.shields.io/badge/Security-Research-blue?logo=shield&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware-Analysis-critical?logo=bug&logoColor=white)
+![Sandbox](https://img.shields.io/badge/Environment-Lab%20Only-orange?logo=virtualbox&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![C2](https://img.shields.io/badge/Command%20%26%20Control-C2-red?logo=server&logoColor=white)
+
+---
+
 ## 🎯 Objectif du projet
 
-Ce projet a été réalisé dans le cadre du module **Ecriture d'un malware en Python**.  
+Ce projet a été réalisé dans le cadre d'un module de formation **Ecriture d'un malware en Python**.  
 L’objectif est de comprendre l’architecture interne d’un ransomware moderne en développant :
 - un **client (malware pédagogique)**
 - un **serveur de contrôle (C2)**
