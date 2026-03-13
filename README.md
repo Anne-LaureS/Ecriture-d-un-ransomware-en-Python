@@ -1,6 +1,4 @@
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/malwarebytes.svg" width="70" align="left">
-
-# Ecriture d'un RANSOMWARE en Python
+# ☠️ Ecriture d'un RANSOMWARE en Python ☠️ 
 ![Security Research](https://img.shields.io/badge/Security-Research-blue?logo=shield&logoColor=white)
 ![Malware Analysis](https://img.shields.io/badge/Malware-Analysis-critical?logo=bug&logoColor=white)
 ![Sandbox](https://img.shields.io/badge/Environment-Lab%20Only-orange?logo=virtualbox&logoColor=white)
