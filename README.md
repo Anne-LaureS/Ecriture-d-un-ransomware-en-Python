@@ -1,4 +1,5 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Skull_and_crossbones_%28black%29.svg/240px-Skull_and_crossbones_%28black%29.svg.png" width="70" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Skull_icon_red.png/240px-Skull_icon_red.png" width="70" align="left">
+
 
 # Ecriture d'un RANSOMWARE en Python
 ![Security Research](https://img.shields.io/badge/Security-Research-blue?logo=shield&logoColor=white)
